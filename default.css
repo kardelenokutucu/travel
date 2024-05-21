@@ -1,0 +1,114 @@
+nav{
+    background-color: rgb(47, 0, 255) !important;
+}
+nav .nav-link{
+    color: aliceblue !important;
+}
+nav .btn{
+    background-color: rgb(255, 0, 255);
+    border-color: rgb(255, 0, 149);
+    color: aliceblue;
+}
+nav .btn:hover{
+background-color: rgb(87, 8, 57);
+border-color: rgb(247, 247, 247);
+}
+.navbar-brand{
+    color: aliceblue !important;
+}
+.carousel img{
+    height: 400px;
+    object-fit: cover;
+
+}
+.accordion-body{
+    background-color: rgb(134, 17, 82) !important;
+    color: aliceblue;
+}
+.accordion-body:hover{
+    background-color: blueviolet !important;
+}
+.Hakkımızda{
+    
+    border: 1px solid rgb(0, 0, 0);
+    background-color: darkred;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    
+}
+#blabla{
+    height: 300px;
+    width: 1500px;
+}
+.ortala{
+    text-align: center;
+}
+.Hakkımızda:hover{
+    background-color: darkslategrey;
+    color: aliceblue;
+}
+.gonder{
+background-color: darkgreen !important;
+border: 5px solid  rgb(223, 186, 40);
+
+}
+.gonder:hover{
+    background-color: darkcyan !important;
+}
+#kardelen{
+    border: 5px solid cornsilk;
+}
+#kardelen1{
+    border: 5px solid cornsilk;
+}
+#kardelen2{
+    border: 5px solid cornsilk;
+}
+body, html {
+    height: 100%;
+  }
+.parallax{
+    background-image: url('slider1.png');
+
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kar{
+    border-radius: 20px;
+    border: 5px solid cornsilk;
+}
+.balık{
+    border-radius: 20px;
+    border: 5px solid cornsilk;
+}
+.slider{
+    position:relative
+}
+.yazı{
+    position:absolute;left: 10px;top: 10px;
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+}
+.gridMain1{
+    background-color:#3498db
+}
+.gridMain2{
+    background-color:#e74c3c
+}
+.gridMain3{
+    background-color:#1abc9c
+}
+.gridMain{
+    color:white;padding:40px 0;
+}
